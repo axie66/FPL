@@ -1,0 +1,12 @@
+*.p
+
+/.DS_Store
+
+/__pycache__
+
+.python-version
+
+/data
+
+*.mp4
+*.mov
